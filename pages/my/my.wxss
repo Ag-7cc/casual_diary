@@ -1,0 +1,24 @@
+/*main.wxss*/
+.section {
+    height: 100%;
+    font-size: 13px;
+    font-family: 微软雅黑;
+    padding-top: 10rpx;
+}
+.my{
+    width: 90%;
+    height: 30px;
+    line-height: 30px;
+    border-bottom:1px solid #eee;
+    padding: 2rpx 15rpx;
+    margin: 0 auto;
+}
+.my .my-title{
+    position: relative;
+    float: left;
+}
+.my .my-content{
+    position: relative;
+    float: right;
+    color: #999;
+}

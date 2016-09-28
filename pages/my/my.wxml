@@ -1,0 +1,15 @@
+<!--main.wxml-->
+<view class="section">
+    <view class="my">
+        <text class="my-title">昵称</text>
+        <text class="my-content">{{user.nickname}}</text>
+    </view>
+    <view class="my">
+        <text class="my-title">姓名</text>
+        <text class="my-content">{{user.name}}</text>
+    </view>
+    <view class="my">
+        <text class="my-title">手机号码</text>
+        <text class="my-content">{{user.mobile}}</text>
+    </view>
+</view>
